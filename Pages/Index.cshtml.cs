@@ -19,7 +19,7 @@ namespace Tool_Website.Pages
         public async Task OnGetAsync()
         {
             Products = await db.Products.ToListAsync();
-            FeaturedProduct = Products.ElementAt(new Random().Next(Products.Count));
+            FeaturedProduct = Products.ElementAt(0);
         }
     }
 }
