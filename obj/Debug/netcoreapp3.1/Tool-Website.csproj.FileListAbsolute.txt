@@ -35,3 +35,4 @@ C:\Users\John\Desktop\Work Tool Website\Tool-Website\obj\Debug\netcoreapp3.1\Too
 C:\Users\John\Desktop\Work Tool Website\Tool-Website\obj\Debug\netcoreapp3.1\Tool-Website.pdb
 C:\Users\John\Desktop\Work Tool Website\Tool-Website\obj\Debug\netcoreapp3.1\Tool-Website.genruntimeconfig.cache
 C:\Users\John\Desktop\Work Tool Website\Tool-Website\obj\Debug\netcoreapp3.1\Tool-Website.csproj.CopyComplete
+C:\Users\John\Desktop\Work Tool Website\Tool-Website\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
