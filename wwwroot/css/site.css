@@ -158,3 +158,19 @@ label[for="OrderQuantity"]{
 .validation-summary-errors {
   color: #be3e16;
 }
+
+h1{
+  color: black;
+}
+
+h2{
+  color: black;
+}
+
+h3{
+  color: black;
+}
+
+p{
+  color: black;
+}
